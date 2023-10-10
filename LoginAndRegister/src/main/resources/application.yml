@@ -1,0 +1,15 @@
+server:
+  port: 8088
+spring:
+  application:
+    name: content-api
+  datasource:
+    driver-class-name: com.mysql.cj.jdbc.Driver
+    #url: jdbc:mysql://localhost:3306/form_manage
+    url: jdbc:mysql://gz-cynosdbmysql-grp-3msieb6b.sql.tencentcdb.com:24291/form_manage?serverTimezone=UTC&userUnicode=true&useSSL=false
+    username: root
+    # password: 123456
+    password: GBCpnx*004
+#mybatis-plus:
+#  configuration:
+#    log-impl: org.apache.ibatis.logging.stdout.StdOutImpl

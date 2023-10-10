@@ -1,0 +1,7 @@
+com\demo\controller\UserController.class
+com\demo\result\R.class
+com\demo\service\UserService.class
+com\demo\mapper\UserMapper.class
+com\demo\service\impl\UserServiceImpl.class
+com\demo\LoginAndRegisterApplication.class
+com\demo\model\po\User.class

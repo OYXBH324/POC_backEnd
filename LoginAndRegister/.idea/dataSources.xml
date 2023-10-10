@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="DataSourceManagerImpl" format="xml" multifile-model="true">
+    <data-source source="LOCAL" name="form_manage@gz-cynosdbmysql-grp-3msieb6b.sql.tencentcdb.com" uuid="f11ba477-662f-45ec-899e-93cad984062a">
+      <driver-ref>mysql.8</driver-ref>
+      <synchronize>true</synchronize>
+      <jdbc-driver>com.mysql.cj.jdbc.Driver</jdbc-driver>
+      <jdbc-url>jdbc:mysql://gz-cynosdbmysql-grp-3msieb6b.sql.tencentcdb.com:24291/form_manage</jdbc-url>
+    </data-source>
+  </component>
+</project>
